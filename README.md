@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Sobre mi</h1>
   <p><strong>Estudiante de Ingeniería en Informática (UNAJ) | Desarrollador de Software (.NET / C# / Python) | Producción Musical y Nuevas Tecnologías (UNQ)</strong></p>
 
   <p>
