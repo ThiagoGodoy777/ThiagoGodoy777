@@ -1,6 +1,4 @@
 <div align="center">
-  <p><strong>Estudiante de Ingeniería en Informática (UNAJ) | Desarrollador de Software (.NET / C# / Python) | Producción Musical y Nuevas Tecnologías (UNQ)</strong></p>
-
   <p>
     <a href="https://thiagogodoy77.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
