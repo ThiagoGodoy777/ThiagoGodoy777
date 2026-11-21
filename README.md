@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://thiagogodoy77.github.io/portfolio/" target="_blank">
+    <a href="https://thiagogodoy777.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/godoythiago777/" target="_blank">
@@ -61,16 +61,6 @@
 
 ### Proyectos Destacados
 
-- **[Gestión de Pacientes](https://github.com/ThiagoGodoy77/GestiondePacientes):** Sistema de escritorio en C# y .NET (Windows Forms, Entity Framework Core, SQLite y pruebas unitarias con xUnit) diseñado para recepción médica, permitiendo gestionar turnos, seguimiento de resultados y estadísticas protegidas por PIN desde una interfaz unificada.
-- **[SubastaYa](https://github.com/ThiagoGodoy77):** Plataforma web full-stack de subastas desarrollada con ASP.NET Core, PostgreSQL, React y Tailwind CSS, con autenticación JWT y control de concurrencia optimista.
-- **[Proyecto Arduino (Juego del Ahorcado)](https://github.com/ThiagoGodoy77/ProyectoArduino):** Sistema embebido interactivo programado en C++ sobre Arduino Uno, integrando pantalla LCD, teclado matricial, LED RGB de estado y retroalimentación sonora.
-- **[Portfolio Web Personal](https://thiagogodoy77.github.io/portfolio/):** Sitio responsivo desarrollado desde cero con HTML5, CSS3 y JavaScript Vanilla, con reproductor de audio flotante de pistas propias, persistencia de tema claro/oscuro y carrusel de tecnologías.
-
----
-
-### Estadísticas de GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiagoGodoy77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGodoy77&layout=compact&langs_count=6&theme=tokyonight" alt="Lenguajes más usados" />
-</div>
+- **[Gestión de Pacientes](https://github.com/ThiagoGodoy777/GestiondePacientes):** Sistema de escritorio en C# y .NET (Windows Forms, Entity Framework Core, SQLite y pruebas unitarias con xUnit) diseñado para recepción médica, permitiendo gestionar turnos, seguimiento de resultados y estadísticas protegidas por PIN desde una interfaz unificada.
+- **[Proyecto Arduino (Juego del Ahorcado)](https://github.com/ThiagoGodoy777/ProyectoArduino):** Sistema embebido interactivo programado en C++ sobre Arduino Uno, integrando pantalla LCD, teclado matricial, LED RGB de estado y retroalimentación sonora.
+- **[Portfolio Web Personal](https://thiagogodoy777.github.io/portfolio/):** Sitio responsivo desarrollado desde cero con HTML5, CSS3 y JavaScript Vanilla, con reproductor de audio flotante de pistas propias, persistencia de tema claro/oscuro y carrusel infinito de tecnologías.
